@@ -1,0 +1,6 @@
+{
+  "name": "Mireng DevSpace",
+  "description": "Interactive developer studio, roadmap planner, schema visualizer and code generator for Mireng Indonesian Hybrid Marketplace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
